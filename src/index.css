@@ -28,6 +28,8 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: burlywood;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
